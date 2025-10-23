@@ -1,0 +1,25 @@
+---
+title: "references"
+bibliography: references.bib
+csl: chicago-author-date.csl
+---
+
+## About
+
+I got from `chicago-author-date.csl` from <https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl>
+
+I edited it to completely rename `<bibliography></bibliography>` tags to `<citation></citation>` and removed the `<bibliography></bibliography>` tag in its entirety.
+
+## Articles
+
+* @bion2018
+
+* @knuth1984
+
+## Books
+
+* @xie2015
+
+* @wickham2015
+
+
