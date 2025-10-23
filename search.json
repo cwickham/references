@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "references",
+    "section": "",
+    "text": "I got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "references",
+    "section": "",
+    "text": "I got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety."
+  },
+  {
+    "objectID": "index.html#articles",
+    "href": "index.html#articles",
+    "title": "references",
+    "section": "Articles",
+    "text": "Articles\n\nBion, Ricardo, Robert Chang, and Jason Goodman 2018. “How r Helps Airbnb Make the Most of Its Data.” The American Statistician 72 (1): 46–52. https://doi.org/10.1080/00031305.2017.1392362.\nKnuth, Donald E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111."
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "references",
+    "section": "Books",
+    "text": "Books\n\nXie, Yihui 2015. Dynamic Documents with R and Knitr. 2nd ed. Chapman; Hall/CRC. https://yihui.name/knitr/.\nWickham, Hadley 2015. R Packages. 1st ed. O’Reilly Media, Inc."
+  }
+]
