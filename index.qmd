@@ -2,6 +2,7 @@
 title: "references"
 bibliography: references.bib
 csl: chicago-author-date.csl
+link-citations: false
 ---
 
 ## About
@@ -13,6 +14,7 @@ This page has the metadata:
 title: "references"
 bibliography: references.bib
 csl: chicago-author-date.csl
+link-citations: false
 ---
 ```
 
