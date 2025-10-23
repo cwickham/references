@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "references",
     "section": "",
-    "text": "This page has the metadata:\n\n\nindex.qmd\n\n---\ntitle: \"references\"\nbibliography: references.bib\ncsl: chicago-author-date.csl\n---\n\nI got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename the &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety.\nEach section below uses the usual Quarto cite syntax, e.g:\n## Articles\n\n* @bion2018\n\n* @knuth1984"
+    "text": "This page has the metadata:\n\n\nindex.qmd\n\n---\ntitle: \"references\"\nbibliography: references.bib\ncsl: chicago-author-date.csl\nlink-citations: false\n---\n\nI got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename the &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety.\nEach section below uses the usual Quarto cite syntax, e.g:\n## Articles\n\n* @bion2018\n\n* @knuth1984"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "references",
     "section": "",
-    "text": "This page has the metadata:\n\n\nindex.qmd\n\n---\ntitle: \"references\"\nbibliography: references.bib\ncsl: chicago-author-date.csl\n---\n\nI got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename the &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety.\nEach section below uses the usual Quarto cite syntax, e.g:\n## Articles\n\n* @bion2018\n\n* @knuth1984"
+    "text": "This page has the metadata:\n\n\nindex.qmd\n\n---\ntitle: \"references\"\nbibliography: references.bib\ncsl: chicago-author-date.csl\nlink-citations: false\n---\n\nI got from chicago-author-date.csl from https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl\nI edited it to completely rename the &lt;bibliography&gt;&lt;/bibliography&gt; tags to &lt;citation&gt;&lt;/citation&gt; and removed the &lt;bibliography&gt;&lt;/bibliography&gt; tag in its entirety.\nEach section below uses the usual Quarto cite syntax, e.g:\n## Articles\n\n* @bion2018\n\n* @knuth1984"
   },
   {
     "objectID": "index.html#articles",
