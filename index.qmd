@@ -6,9 +6,29 @@ csl: chicago-author-date.csl
 
 ## About
 
+This page has the metadata:
+
+```{.yaml filename="index.qmd"}
+---
+title: "references"
+bibliography: references.bib
+csl: chicago-author-date.csl
+---
+```
+
 I got from `chicago-author-date.csl` from <https://github.com/citation-style-language/styles/blob/master/chicago-author-date.csl>
 
-I edited it to completely rename `<bibliography></bibliography>` tags to `<citation></citation>` and removed the `<bibliography></bibliography>` tag in its entirety.
+I edited it to completely rename the `<bibliography></bibliography>` tags to `<citation></citation>` and removed the `<bibliography></bibliography>` tag in its entirety.
+
+Each section below uses the usual Quarto cite syntax, e.g:
+
+````markdown
+## Articles
+
+* @bion2018
+
+* @knuth1984
+````
 
 ## Articles
 
